@@ -1,0 +1,1 @@
+# webp-webpack-plugin
